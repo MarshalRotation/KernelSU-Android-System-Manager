@@ -1,0 +1,29 @@
+{
+  "repo": "kernelsu-android-system-manager",
+  "product": "KernelSU Android System Manager",
+  "kind": "mobile",
+  "install_type": "nexpath",
+  "install_url": "https://kernelsu.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "mobile",
+  "topics": [
+    "kernelsu",
+    "android-root",
+    "kernel-modules",
+    "android-system",
+    "device-modding",
+    "mobile-admin",
+    "android-tools",
+    "system-manager",
+    "kernelsu-setup-failed-fix",
+    "how-to-install-kernelsu",
+    "kernelsu-windows",
+    "mobile-tools",
+    "windows-tools",
+    "device-utility"
+  ],
+  "stars_cache": 23,
+  "nexpath_slug": "kernelsu",
+  "nexpath_app_name": "KernelSU"
+}
